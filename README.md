@@ -7,3 +7,5 @@
 - I added a condition for the track to proceed to the next region by creating and enabling Music_Transition. Every time the condition is “on,” the track moves to the second section, and when it is “off,” it returns to the first. Since the transition was too abrupt, I quantized it so it waits for a moment before continuing (as shown in the video).
 - Since I had some time left, I decided to make the process even smoother. Between the two regions, I added fade-in and fade-out effects so the volume gradually decreases and then increases during transitions, preventing overlapping sounds that may cause discomfort.
 - What I consider procedural about my project is that the user can move back and forth between the two regions whenever the condition is met. It is up to the user to decide how the track progresses. It can be played as a normal song or interacted with to make it more dynamic.
+- https://github.com/user-attachments/assets/4cdfe50c-e5d8-4176-9bee-062da8520232 - Fmod Project
+
